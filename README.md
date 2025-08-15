@@ -2,6 +2,10 @@
 
 ![Otis Valen Template Preview](public/image1.jpg)
 
+## 🌟 [🔗 **LIVE DEMO**](https://website-template-03.vercel.app/) 🌟
+
+**👆 Click above to see the template in action!**
+
 A sophisticated, minimalist portfolio website template featuring smooth animations, modern design aesthetics, and creative visual elements. Perfect for designers, developers, and creative professionals showcasing their work.
 
 ## ✨ Features
@@ -106,7 +110,13 @@ This template is designed to be easily customizable:
 - **About (/about.html)** - Personal story, skills, and experience
 - **Contact (/contact.html)** - Contact form and social media links
 
-## 🌐 Deployment
+## 🌐 Live Demo & Deployment
+
+### 🚀 [View Live Demo](https://website-template-03.vercel.app/)
+
+See the template in action at: **https://website-template-03.vercel.app/**
+
+### Deploy Your Own
 
 This project is optimized for deployment on Vercel:
 
